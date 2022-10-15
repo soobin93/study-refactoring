@@ -1,0 +1,9 @@
+{
+  "name": "study-refactoring",
+  "packageManager": "yarn@3.2.4",
+  "author": "Soobin Son",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

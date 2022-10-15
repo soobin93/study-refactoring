@@ -1,1 +1,1 @@
-# study-refactoring
+# Study Refactoring (2nd Edition)
